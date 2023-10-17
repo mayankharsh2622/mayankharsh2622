@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mayankharsh2622
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mayankharsh2622/mayankharsh2622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ name= mayank gupta ,divyanshu singh tomer, gagan singh, dishnat sharma
+ roll no=   2023BO101180,2023BO101O72,2023B0101196,2023B010101010
+ year 2023
+ branch btech cse
+  
